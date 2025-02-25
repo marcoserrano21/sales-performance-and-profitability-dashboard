@@ -12,3 +12,4 @@ Which regions are the most profitable?
 
 Are there seasonal trends in sales performance?
 
+![image](https://github.com/user-attachments/assets/f41580c6-2e60-4451-93f7-c8035b8257f2)
